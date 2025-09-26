@@ -51,4 +51,4 @@ Bu proje, bir derin öğrenme modelinin durağan bir görüntüdeki bulut türü
 ### Kaggle Notebook Linki
 Projenin tüm kodlarını, detaylı teknik açıklamalarını, analizlerini ve çıktılarını içeren Kaggle Notebook'una aşağıdaki linkten ulaşabilirsiniz:
 
-**[Projenin Kaggle Notebook'una Buradan Ulaşabilirsiniz](https://www.kaggle.com/code/cowboycase/cloud-classification)** x
+**[Projenin Kaggle Notebook'una Buradan Ulaşabilirsiniz](https://www.kaggle.com/code/cowboycase/cloud-classification)** 
