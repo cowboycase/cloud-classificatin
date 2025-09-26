@@ -32,7 +32,7 @@ Proje boyunca aşağıdaki yöntemler ve teknolojiler uygulanmıştır:
 
 ### 📊 Elde Edilen Sonuçlar
 
-Yapılan optimizasyon süreci sonucunda oluşturulan final modeli, test seti üzerinde **yaklaşık %62'lik bir doğruluk (accuracy) skoruna** ulaşmıştır. Bu skor, ilk bakışta mütevazı görünse de, projenin zorlukları ve elde edilen değerli içgörüler ışığında önemli bir başarıdır. Ana bulgularımız şu şekildedir:
+Yapılan optimizasyon süreci sonucunda oluşturulan final modeli, test seti üzerinde **yaklaşık %77'lik bir doğruluk (accuracy) skoruna** ulaşmıştır. Bu skor, ilk bakışta mütevazı görünse de, projenin zorlukları ve elde edilen değerli içgörüler ışığında önemli bir başarıdır. Ana bulgularımız şu şekildedir:
 
 *   **Overfitting Kontrolü:** `EarlyStopping` mekanizması sayesinde model, ezberlemeye (overfitting) başlamadan en uygun noktada durdurularak genelleme yeteneği başarılı bir şekilde korunmuştur.
 
