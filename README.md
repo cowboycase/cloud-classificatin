@@ -8,7 +8,7 @@ Projenin temel amacı, bir görüntü veri setini kullanarak, Evrişimli Sinir A
 Projede, Kaggle üzerinde halka açık olarak bulunan **"Clouds Photos"** veri seti kullanılmıştır.
 *   **İçerik:** Veri seti, 7 farklı bulut türüne ait görsellerden oluşmaktadır (Cirrus, Stratus, Cumulus vb.).
 *   **Yapı:** Veri seti, model eğitimi için `clouds_train` ve `clouds_test` olarak iki ana klasöre ayrılmış şekilde sunulmaktadır.
-*   **Veri Seti Linki:** [Kagle - Clouds Photos](https://www.kaggle.com/datasets/jockeroika/clouds-photos)
+*   **Veri Seti Linki:** [Kaggle - Clouds Photos](https://www.kaggle.com/datasets/jockeroika/clouds-photos)
 
 ### 📌Kullanılan Yöntemler
 Proje boyunca aşağıdaki yöntemler ve teknolojiler uygulanmıştır:
